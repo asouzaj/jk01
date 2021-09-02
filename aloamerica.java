@@ -1,10 +1,8 @@
-package aloamerica;
-
-public class aloamerica {
+public class AloAmerica {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("Alo America!!!");
+		System.out.println("Alo  America!!!");
 	}
 
 }
